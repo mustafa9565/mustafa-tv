@@ -2,26 +2,9 @@
 
 #EXT-X-VERSION:6
 
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=640x360
+#EXT-X-STREAM-INF:BANDWIDTH=9000000,RESOLUTION=640x360
 
 http://my.allmycss.online:8080/assets/res2/java2/1316.css
-
-#EXT-X-STREAM-INF:BANDWIDTH=1600000,RESOLUTION=854x480 
-
-http://my.allmycss.online:8080/assets/res2/java2/1316.css 
-
-#EXT-X-STREAM-INF:BANDWIDTH=2400000,RESOLUTION=1024x576
-
-http://my.allmycss.online:8080/assets/res2/java2/1316.css
-
-#EXT-X-STREAM-INF:BANDWIDTH=3400000,RESOLUTION=1280x720 
-
-http://my.allmycss.online:8080/assets/res2/java2/1316.css 
-
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080 
-
-http://my.allmycss.online:8080/assets/res2/java2/1316.css
-
 
 
 
